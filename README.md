@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Owen 👋
 
 ### Who I am
 I am an aspiring Data Analyst proficient in **Excel**, **SQL**, and **Python**. This repository serves as a portfolio where I post my projects, code, and learning progress as I build my skills in data analytics and modeling.
