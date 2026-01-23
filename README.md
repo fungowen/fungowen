@@ -1,7 +1,7 @@
 # Hi, I'm Owen 👋
 
 ### Who I am
-I am an aspiring Data Analyst proficient in **Excel**, **SQL**, and **Python**. This repository serves as a portfolio where I post my projects, code, and learning progress as I build my skills in data analytics and modeling.
+I am interested in solving problems with data using **Excel**, **SQL**, and **Python**. This repository serves as a portfolio where I post my projects, code, and learning progress as I build my skills in data analytics and modeling.
 
 ### 🔭 What I'm currently working on
 I am currently building a **Data Model for Health Insurance Pricing**.
