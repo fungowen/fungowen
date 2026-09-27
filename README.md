@@ -10,7 +10,7 @@ I am currently building a **Data Model for Health Insurance Pricing**.
 ### ⚡ Fun facts about me
 * **Foodie:** I love exploring different restaurants and trying new cuisines. 🍜
 * **Hooper:** I like to play basketball in my free time. 🏀
-* **Vibe:** I'm just a chill guy who enjoys learning and building cool things.
+* **Vibe:** I'm just a guy who enjoys learning and building cool things.
 
 ---
 *Thanks for stopping by!*
